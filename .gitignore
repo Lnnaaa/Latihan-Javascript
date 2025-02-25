@@ -1,0 +1,53 @@
+users.csv
+admin.csv
+
+# C/C++
+*.o
+*.a
+*.so
+*.exe
+*.dll
+
+.env
+config.json
+*.pem
+*.key
+
+# Windows
+Thumbs.db
+.DS_Store
+
+# macOS
+.DS_Store
+
+# Linux
+*~
+
+# Editor Code
+.vscode/
+.idea/
+*.swp
+
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Java
+target/
+*.class
+
+# Go
+bin/
+vendor/
+
+# Rust
+target/
+Cargo.lock
